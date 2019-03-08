@@ -17,11 +17,16 @@ label {
 }
 
 .col-valor {
-  width: 120px;
+  width: 100px;
   text-align: right;
 }
 
 .col-data {
   width: 120px;
+  text-align: center;
+}
+
+.col-acoes {
+  width: 91px;
   text-align: center;
 }
