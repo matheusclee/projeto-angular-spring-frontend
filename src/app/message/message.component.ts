@@ -10,6 +10,8 @@ import { FormControl } from '@angular/forms';
   `,
   styles: [`
     .ui-messages-error {
+      background-color: #f00;
+      color: #fff;
       margin: 0;
       margin-top: 4px;
     }
